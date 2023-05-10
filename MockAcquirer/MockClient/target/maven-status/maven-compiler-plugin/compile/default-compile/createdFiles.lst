@@ -1,0 +1,6 @@
+request\MockRequest.class
+client\MockClient.class
+response\MockResponse.class
+enums\EnumResponseCodes$ResponseCodes.class
+enums\EnumResponseCodes.class
+producer\JaxbProducer.class
